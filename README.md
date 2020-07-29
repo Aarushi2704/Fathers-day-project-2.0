@@ -1,3 +1,3 @@
-# my own game
+# My own game
 SELF DEVELOPED GAME TO MAKE MATHS FUN 
 
