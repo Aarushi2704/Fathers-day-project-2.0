@@ -1,2 +1,3 @@
-# asynchronousBallMovement
-Boiler plate for ball moving aysnchronously
+# my own game
+SELF DEVELOPED GAME TO MAKE MATHS FUN 
+
